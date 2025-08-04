@@ -1,0 +1,5 @@
+dataset original disponivel em:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Formato: CSV
+Licença: Pública (uso educacional)
